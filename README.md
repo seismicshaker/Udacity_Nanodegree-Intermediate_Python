@@ -46,6 +46,6 @@ In this project, I demonstrate the Advanced Python skills developed throughout t
 ## Project 2: Motivational Meme Generator Project`
 ### Large Python Codebases with Libraries
 
-In this project, I create and command-line interface and Flask application to generate a dog meme with superimposed quotes.
+In this project, I create a command-line interface and Flask application to generate a dog meme with superimposed quotes.
 
 ![](12152023-intermediate_python_nanodegree.svg)
