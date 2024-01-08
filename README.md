@@ -39,13 +39,13 @@ The Udacity Nanodegree implements project-based learning. This directory is a co
 ```
 
 ## Project 1: Exploring Near-Earth Objects
-### module?
+### Advanced Python Techniques
 
-In this project, 
+In this project, I demonstrate the Advanced Python skills developed throughout this module - to search for and explore close approaches of near-Earth objects (NEOs), using data from NASA/JPL's Center for Near Earth Object Studies. I create a command-line tool to inspect and query NEO data, futhermore exorts subsets.
 
 ## Project 2: Motivational Meme Generator Project`
-### modele?
+### Large Python Codebases with Libraries
 
-In this project, 
+In this project, I create and command-line interface and Flask application to generate a dog meme with superimposed quotes.
 
 ![](12152023-intermediate_python_nanodegree.svg)
