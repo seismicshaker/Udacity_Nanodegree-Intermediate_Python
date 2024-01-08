@@ -1,6 +1,6 @@
 # Intermediate Python Nanodegree
 
-The Udacity Nanodegree implements project-based learning. This directory is a collection of the three projects required. 
+The Udacity Nanodegree implements project-based learning. This directory is a collection of the two projects required. 
 
 ## Folder Structure
 
