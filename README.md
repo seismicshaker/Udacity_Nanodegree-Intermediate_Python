@@ -48,3 +48,4 @@ In this project,
 
 In this project, 
 
+![](12152023-intermediate_python_nanodegree.svg)
